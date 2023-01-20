@@ -1,0 +1,1 @@
+C:\Users\Julian\Desktop\EjemploAplicaciones\Ejercicios\SoftwarePos\SoftwarePos\SoftwarePos.csproj;x64
